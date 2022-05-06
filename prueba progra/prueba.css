@@ -1,0 +1,41 @@
+.container{background-image:<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.universidadviu.com%2Fsites%2Funiversidadviu.com%2Ffiles%2Fimages%2Fqu%25C3%25A9%2520hace%2520un%2520ingeniero%2520inform%25C3%25A1tico-min.png&imgrefurl=https%3A%2F%2Fwww.universidadviu.com%2Fint%2Factualidad%2Fnuestros-expertos%2Fque-hace-un-ingeniero-informatico-funciones&tbnid=_9UVudbyJ-IafM&vet=12ahUKEwi1vYzt37f3AhUSFbkGHZPnAvUQMygAegUIARDOAQ..i&docid=wy8wX3QtBdeDiM&w=723&h=482&q=ingeniero%20informatico&ved=2ahUKEwi1vYzt37f3AhUSFbkGHZPnAvUQMygAegUIARDOAQ" class="img-fluid" alt="">;
+}
+
+#contenido{
+    background-color: aquamarine;
+    height: 800px;
+}
+
+#Desarrollo-Front-End{
+    background-color: coral;
+}
+
+#home{
+    background-color: coral;
+}
+
+#Precios{
+    background-color: coral;
+}
+
+#Caracteristicas{
+    background-color: coral;
+}
+
+#Acerca{
+    background-color: coral;
+}
+
+#unetenos{
+    background-color: coral;
+}
+
+#boton{
+    margin-bottom: 15px;
+    background-color: darkblue;
+    height: 200px;
+}
+
+.h1{
+    height: max-content;
+}
